@@ -1,6 +1,5 @@
 
 function multiplyBigNumByTwo(num1, num2) {
-  // Your code here
 let bigNum;
 if (num1 > num2) {
   bigNum = num1;
@@ -12,7 +11,6 @@ if (num1 > num2) {
 }
 
 function divideBigNumByThree(num1, num2) {
-  // Your code here
   let bigNum;
   if (num1 > num2) {
     bigNum = num1;
@@ -24,7 +22,6 @@ function divideBigNumByThree(num1, num2) {
 }
 
 function eatMostTacos(sum1, sum2) {
-  // Your code here
   let bigNum;
   if (sum1 > sum2) {
     bigNum = sum1;
@@ -36,7 +33,6 @@ function eatMostTacos(sum1, sum2) {
 }
 
 function adoptSmallerDog(weight1, weight2) {
-  // Your code here
   let smallDog;
   if (weight1 < weight2) {
     smallDog = weight1;
