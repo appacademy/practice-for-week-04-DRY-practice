@@ -1,13 +1,13 @@
 
 function multiplyBigNumByTwo(num1, num2) {
-let bigNum;
-if (num1 > num2) {
-  bigNum = num1;
-  return bigNum * 2;
-} else {
-  bigNum = num2;
-  return bigNum * 2;
-}
+  let bigNum;
+  if (num1 > num2) {
+    bigNum = num1;
+    return bigNum * 2;
+  } else {
+    bigNum = num2;
+    return bigNum * 2;
+  }
 }
 
 function divideBigNumByThree(num1, num2) {
